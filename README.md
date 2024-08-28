@@ -1,5 +1,7 @@
 # Willkommen zur interaktiven Übung zum Thema "Pumpversuche"
 
+!!! ACHTUNG: DIESES NOTEBOOK WIRD MOMENTAN NOCH ENTWICKELT !!!
+
 **Sebastian Gnann**
 
 Dieses GitHub-Repository enthält das Material für die interaktive Online-Übung zum Thema "Pumpversuche". 
