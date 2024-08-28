@@ -1,0 +1,7 @@
+matplotlib
+imageio
+numpy
+scipy
+pandas
+ipywidgets
+jupyterlab
