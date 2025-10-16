@@ -3,5 +3,6 @@ imageio
 numpy
 scipy
 pandas
+openpyxl
 ipywidgets
 jupyterlab
